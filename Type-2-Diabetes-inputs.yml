@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/steroid-type-2-diabetes-exclusion-codes---primary.py
+inputModule3:
+  class: File
+  path: python/gestational-type-2-diabetes-exclusion-codes---primary.py
+inputModule4:
+  class: File
+  path: python/type-2-diabetes-exclusion-codes-mother---primary.py
+inputModule5:
+  class: File
+  path: python/pancreatic-type-2-diabetes-exclusion-codes---primary.py
+inputModule6:
+  class: File
+  path: python/nephrogenic-type-2-diabetes-exclusion-codes---primary.py
+inputModule7:
+  class: File
+  path: python/type-2-diabetes-exclusion-codes-mellitus---primary.py
+inputModule8:
+  class: File
+  path: python/type-2-diabetes-exclusion-codes-malnutritionrelated---primary.py
+inputModule9:
+  class: File
+  path: python/type-2-diabetes-exclusion-codes-youth---primary.py
+inputModule10:
+  class: File
+  path: python/type-2-diabetes-exclusion-codes---primary.py
+inputModule11:
+  class: File
+  path: python/type-2-diabetes-exclusion-codes-manife---primary.py
+inputModule12:
+  class: File
+  path: python/type-2-diabetes-exclusion-codes-insipidu---primary.py
+inputModule13:
+  class: File
+  path: python/secondary-type-2-diabetes-exclusion-codes---primary.py
+inputModule14:
+  class: File
+  path: python/type-2-diabetes-exclusion-codes-ovary---primary.py
+inputModule15:
+  class: File
+  path: python/type-2-diabetes-exclusion-codes-infant---primary.py
+inputModule16:
+  class: File
+  path: python/type-2-diabetes-exclusion-codes-convulsions---primary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
